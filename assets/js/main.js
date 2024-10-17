@@ -11,11 +11,11 @@ function stopClock() {
 /*****************************************/
 
 window.onload = function () {
-/*    
+   
     console.log("Hello, world!");
     console.log(Math.random());
 
-*/
+
 
 
 
