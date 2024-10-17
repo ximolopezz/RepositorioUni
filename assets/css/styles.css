@@ -91,3 +91,19 @@ footer h2 {
     border: solid 1px white;
     color: white;
 }
+
+.misbotones {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1vw;
+    margin-left: 2vw;
+}
+
+.botonprueba{
+    display: block;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 1vw 2vw;
+    border-radius: 30px;
+}
